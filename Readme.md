@@ -1,7 +1,7 @@
 ### Hi There, I am Karthik Konaraddi ###
 
 - :mortar_board: Prospective Master of Science Student at the University of Illinois Chicago majoring in the field of Software Development & Data Analytics. 
-- :office: Worked in Accenture Solutions as a Software Engineer for 3 Years and Interned at Express Analytics in the field of Data Science for a Year.
+- :office: Recently completed Summer Internship at Ernst & Young US as a technology consultant for their Data & Analytics team. Also, I Worked in Accenture Solutions India as a Software Engineer for 3 Years and Interned at Express Analytics in the field of Data Science for a Year.
 - :door:Hometown: Hubli, Karnataka, India
 * :e-mail: karthikkonaraddi@gmail.com
 
