@@ -1,9 +1,8 @@
 ### Hi There, I am Karthik Konaraddi ###
 
-- :mortar_board: Prospective Master of Science Student at the University of Illinois Chicago majoring in the field of Data Analytics. 
-- :office: Worked in Accenture Solutions as a Data Analyst for 3 Years and Interned at Express Analytics in the field of Data Science for a Year.
+- :mortar_board: Prospective Master of Science Student at the University of Illinois Chicago majoring in the field of Software Development & Data Analytics. 
+- :office: Worked in Accenture Solutions as a Software Engineer for 3 Years and Interned at Express Analytics in the field of Data Science for a Year.
 - :door:Hometown: Hubli, Karnataka, India
-* :bar_chart:Current Coursework: Healthcare Analytics, Big Data Analytics, Advanced Database Management Systems
 * :e-mail: karthikkonaraddi@gmail.com
 
 <h3 align="left">Social Media:</h3>
